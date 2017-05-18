@@ -1,3 +1,10 @@
+GIT
+  remote: git://github.com/flori/json.git
+  revision: 7f4cfd853f2c919d854fb95548a19980feff17e8
+  branch: v1.8
+  specs:
+    json (1.8.6)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -194,13 +201,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jekyll (= 3.4.3)
-  jekyll-feed (~> 0.6)
-  minima (~> 2.0)
-  tzinfo-data
-
-RUBY VERSION
-   ruby 2.4.1p111
+  json!
 
 BUNDLED WITH
    1.14.6

@@ -1,6 +1,5 @@
-# ARS Matrix
+# ARS-Matrix
 
-Arthur Song
 
 ---
 

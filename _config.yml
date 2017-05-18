@@ -1,18 +1,17 @@
 # Site settings
-title: ARS Matrix
+title: ARS-MATRIX
 description: 'Brevity is the soul of wisdom'
-url: ""
-baseurl: ""
+url: ''
+baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
 author:
-  name: 'Danyang (Arthur) Song'
+  name: 'Danyang (Arthur R) Song'
   email: arthur.r.song@gmail.com
-#  twitter_username: 
-#  facebook_username: 
-#  github_username:  
-#  linkedin_username:  
+  twitter_username: arthur_r_song
+  github_username: GreysTone
+  linkedin_username: danyang-arthur-song-14595291
 
 defaults:
   -
