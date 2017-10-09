@@ -28,6 +28,13 @@ permalink: /:year/:title/
 markdown: kramdown
 highlighter: rouge
 
+# Plugins
+plugins_dir:
+  - jekyll-gist
+  - jekyll-coffeescript
+  - jekyll-assets
+  - jekyll-admin
+
 kramdown:
   # use Github Flavored Markdown
   input: GFM
